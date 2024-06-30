@@ -1,0 +1,61 @@
+23:09:22.345 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:09:22.358 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:09:22.358 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:09:22.358 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:09:22.359 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:09:22.360 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+23:09:22.361 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:09:22.364 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:09:22.364 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:09:22.364 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:09:22.365 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:09:22.380 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\MS\AppData\Local\Temp\testng-eclipse--451370502\testng-customsuite.xml
+
+23:09:22.420 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 13 ms.
+23:09:22.698 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@70dd7e15: 54 ms
+23:09:22.827 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2cab9998: 129 ms
+23:09:22.860 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6e9319f: 33 ms
+23:09:22.880 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@21c64522: 18 ms
+23:09:22.894 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7f811d00: 14 ms
+23:09:22.906 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@a77614d: 12 ms
+23:09:22.906 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4fd4cae3: 0 ms
+23:09:50.835 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\MS\eclipse-workspace\BlueChipServicesInternational\mainTestng.xml
+
+23:09:54.033 [main] INFO  testCases.TC_001_HomePage - ***********Opening the Browser**********
+23:11:45.227 [main] INFO  testCases.TC_001_HomePage - ***********Closing the Browser**********
+23:13:59.125 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\MS\eclipse-workspace\BlueChipServicesInternational\mainTestng.xml
+
+23:14:01.463 [main] INFO  testCases.TC_001_HomePage - ***********Opening the Browser**********
+23:15:25.346 [main] INFO  testCases.TC_001_HomePage - ***********Closing the Browser**********
+23:16:06.324 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\MS\eclipse-workspace\BlueChipServicesInternational\mainTestng.xml
+
+23:16:08.257 [main] INFO  testCases.TC_001_HomePage - ***********Opening the Browser**********
+23:17:27.971 [main] INFO  testCases.TC_001_HomePage - ***********Closing the Browser**********
+23:18:17.953 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\MS\eclipse-workspace\BlueChipServicesInternational\mainTestng.xml
+
+23:18:20.019 [main] INFO  testCases.TC_001_HomePage - ***********Opening the Browser**********
+23:19:31.659 [main] INFO  testCases.TC_001_HomePage - ***********Closing the Browser**********
+23:26:13.439 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\MS\eclipse-workspace\BlueChipServicesInternational\mainTestng.xml
+
+23:26:15.711 [main] INFO  testCases.TC_001_HomePage - ***********Opening the Browser**********
+23:27:30.373 [main] INFO  testCases.TC_001_HomePage - ***********Closing the Browser**********
+23:30:24.272 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\MS\eclipse-workspace\BlueChipServicesInternational\mainTestng.xml
+
+23:30:26.761 [main] INFO  testCases.TC_001_HomePage - ***********Opening the Browser**********
+23:31:31.434 [main] INFO  testCases.TC_001_HomePage - ***********Closing the Browser**********
+23:32:54.017 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\MS\eclipse-workspace\BlueChipServicesInternational\mainTestng.xml
+
+23:32:56.215 [main] INFO  testCases.TC_001_HomePage - ***********Opening the Browser**********
+23:34:33.783 [main] INFO  testCases.TC_001_HomePage - ***********Closing the Browser**********
+23:38:10.831 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\MS\eclipse-workspace\BlueChipServicesInternational\mainTestng.xml
+
+23:38:13.043 [main] INFO  testCases.TC_001_HomePage - ***********Opening the Browser**********

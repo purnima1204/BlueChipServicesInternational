@@ -1,0 +1,50 @@
+21:45:26.012 [main] INFO  testCases.TC_004_LoginDDT - Home page is Launched!
+21:45:26.020 [main] INFO  testCases.TC_004_LoginDDT - Clicked on Login Button!
+21:45:26.424 [main] INFO  testCases.TC_004_LoginDDT - Entered Email from Excel!
+21:45:26.669 [main] INFO  testCases.TC_004_LoginDDT - Enter password from Excel!
+21:45:26.825 [main] INFO  testCases.TC_004_LoginDDT - Scrolled To click on LoginButton!
+21:45:26.861 [main] INFO  testCases.TC_004_LoginDDT - clicked on LoginButton!
+21:45:31.688 [main] INFO  testCases.TC_004_LoginDDT - Profile Title is Visible !
+21:45:31.695 [main] INFO  testCases.TC_004_LoginDDT - ****clicked on Logo Link****
+21:45:35.516 [main] INFO  testCases.TC_004_LoginDDT - ===>Finished TC_004_Login DataDriven TestCase <===
+21:45:35.531 [main] INFO  testCases.TC_004_LoginDDT - ***Starting TC_004_Login DDT***
+21:45:35.531 [main] INFO  testCases.TC_004_LoginDDT - Home page is Launched!
+21:45:35.532 [main] INFO  testCases.TC_004_LoginDDT - Clicked on Login Button!
+21:45:36.100 [main] INFO  testCases.TC_004_LoginDDT - Entered Email from Excel!
+21:45:36.308 [main] INFO  testCases.TC_004_LoginDDT - Enter password from Excel!
+21:45:36.516 [main] INFO  testCases.TC_004_LoginDDT - Scrolled To click on LoginButton!
+21:45:36.567 [main] INFO  testCases.TC_004_LoginDDT - clicked on LoginButton!
+21:45:38.275 [main] INFO  testCases.TC_004_LoginDDT - Profile Title is Visible !
+21:45:38.287 [main] INFO  testCases.TC_004_LoginDDT - ****clicked on Logo Link****
+21:45:48.348 [main] INFO  testCases.TC_004_LoginDDT - ===>Finished TC_004_Login DataDriven TestCase <===
+21:45:48.353 [main] INFO  testCases.TC_004_LoginDDT - ***Starting TC_004_Login DDT***
+21:45:48.354 [main] INFO  testCases.TC_004_LoginDDT - Home page is Launched!
+21:45:48.355 [main] INFO  testCases.TC_004_LoginDDT - Clicked on Login Button!
+21:45:58.382 [main] INFO  testCases.TC_004_LoginDDT - ***Starting TC_004_Login DDT***
+21:45:58.383 [main] INFO  testCases.TC_004_LoginDDT - Home page is Launched!
+21:45:58.384 [main] INFO  testCases.TC_004_LoginDDT - Clicked on Login Button!
+21:46:08.415 [main] INFO  testCases.TC_004_LoginDDT - ===>Finished TC_004_Login DataDriven TestCase <===
+21:46:08.419 [main] INFO  testCases.TC_004_LoginDDT - ***Starting TC_004_Login DDT***
+21:46:08.419 [main] INFO  testCases.TC_004_LoginDDT - Home page is Launched!
+21:46:08.419 [main] INFO  testCases.TC_004_LoginDDT - Clicked on Login Button!
+21:46:18.448 [main] INFO  testCases.TC_004_LoginDDT - ===>Finished TC_004_Login DataDriven TestCase <===
+21:46:18.453 [main] INFO  testCases.TC_004_LoginDDT - ***Starting TC_004_Login DDT***
+21:46:18.453 [main] INFO  testCases.TC_004_LoginDDT - Home page is Launched!
+21:46:18.455 [main] INFO  testCases.TC_004_LoginDDT - Clicked on Login Button!
+21:46:28.487 [main] INFO  testCases.TC_004_LoginDDT - ===>Finished TC_004_Login DataDriven TestCase <===
+21:46:28.492 [main] INFO  testCases.TC_004_LoginDDT - ***Starting TC_004_Login DDT***
+21:46:28.493 [main] INFO  testCases.TC_004_LoginDDT - Home page is Launched!
+21:46:28.493 [main] INFO  testCases.TC_004_LoginDDT - Clicked on Login Button!
+21:46:38.561 [main] INFO  testCases.TC_004_LoginDDT - ===>Finished TC_004_Login DataDriven TestCase <===
+21:46:38.565 [main] INFO  testCases.TC_004_LoginDDT - ***Starting TC_004_Login DDT***
+21:46:38.565 [main] INFO  testCases.TC_004_LoginDDT - Home page is Launched!
+21:46:38.566 [main] INFO  testCases.TC_004_LoginDDT - Clicked on Login Button!
+21:46:48.615 [main] INFO  testCases.TC_004_LoginDDT - ===>Finished TC_004_Login DataDriven TestCase <===
+21:46:48.621 [main] INFO  testCases.TC_004_LoginDDT - ***Starting TC_004_Login DDT***
+21:46:48.621 [main] INFO  testCases.TC_004_LoginDDT - Home page is Launched!
+21:46:48.623 [main] INFO  testCases.TC_004_LoginDDT - Clicked on Login Button!
+21:46:58.641 [main] INFO  testCases.TC_004_LoginDDT - ===>Finished TC_004_Login DataDriven TestCase <===
+21:46:58.645 [main] INFO  testCases.TC_004_LoginDDT - ***Starting TC_004_Login DDT***
+21:46:58.645 [main] INFO  testCases.TC_004_LoginDDT - Home page is Launched!
+21:46:58.646 [main] INFO  testCases.TC_004_LoginDDT - Clicked on Login Button!
+21:47:08.726 [main] INFO  testCases.TC_004_LoginDDT - ***********Closing the Browser**********
