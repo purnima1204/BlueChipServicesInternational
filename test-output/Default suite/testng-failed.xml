@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testCases.TC_001_HomePage">
+      <class name="testCases.TC_005_FileUploadUsingAutoIT">
         <methods>
-          <include name="accountRegistration"/>
           <include name="tearDown"/>
+          <include name="verifyLogin"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- testCases.TC_001_HomePage -->
+      </class> <!-- testCases.TC_005_FileUploadUsingAutoIT -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

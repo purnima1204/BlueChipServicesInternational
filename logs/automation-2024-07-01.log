@@ -1,0 +1,56 @@
+23:36:43.785 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Scrolled To click on LoginButton!
+23:36:43.833 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - clicked on LoginButton!
+23:36:49.900 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Profile Title is Visible !
+23:36:49.916 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on Logo Link****
+23:36:50.058 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on Profile Logo****
+23:36:58.178 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on ProfileSideBar****
+23:36:58.734 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on EditProfileLink****
+23:36:58.883 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on Passport InputField****
+23:36:59.066 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ***********Closing the Browser**********
+23:38:52.395 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\MS\eclipse-workspace\BlueChipServicesInternational\MainTestNG.xml
+
+23:38:54.379 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ***********Opening the Browser**********
+23:39:31.185 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ***Starting TC_005_Login TestCase***
+23:39:31.186 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Home page is Launched!
+23:39:31.214 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Clicked on Login Button!
+23:39:37.321 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Entered Email!
+23:39:37.500 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Enter password!
+23:39:37.629 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Scrolled To click on LoginButton!
+23:39:37.665 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - clicked on LoginButton!
+23:39:42.469 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Profile Title is Visible !
+23:39:42.477 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on Logo Link****
+23:39:42.565 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on Profile Logo****
+23:39:53.005 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on ProfileSideBar****
+23:39:53.522 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on EditProfileLink****
+23:39:53.660 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on Passport InputField****
+23:39:53.702 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on yes****
+23:39:53.897 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ***********Closing the Browser**********
+23:47:14.149 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\MS\eclipse-workspace\BlueChipServicesInternational\MainTestNG.xml
+
+23:47:16.338 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ***********Opening the Browser**********
+23:47:56.142 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ***Starting TC_005_Login TestCase***
+23:47:56.143 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Home page is Launched!
+23:47:56.219 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Clicked on Login Button!
+23:47:56.949 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Entered Email!
+23:47:57.124 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Enter password!
+23:47:57.252 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Scrolled To click on LoginButton!
+23:47:57.287 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - clicked on LoginButton!
+23:47:59.338 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Profile Title is Visible !
+23:47:59.345 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on Logo Link****
+23:47:59.424 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on Profile Logo****
+23:48:13.004 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on ProfileSideBar****
+23:48:13.561 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on EditProfileLink****
+23:48:13.674 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on Passport InputField****
+23:48:13.715 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on yes****
+23:48:13.936 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ***********Closing the Browser**********
+23:49:53.685 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\MS\eclipse-workspace\BlueChipServicesInternational\MainTestNG.xml
+
+23:49:55.767 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ***********Opening the Browser**********
+23:50:32.766 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ***Starting TC_005_Login TestCase***
+23:50:32.766 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Home page is Launched!
+23:50:32.828 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Clicked on Login Button!
+23:50:38.170 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Entered Email!
+23:50:38.330 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Enter password!

@@ -19,7 +19,8 @@
      <!--  <class name="testCases.TC_001_HomePage"/>-->
      <!--  <class name="testCases.TC_002_BrokenLinks_ResponseCode"></class>-->
      <!--   <class name="testCases.TC_003_LoginValidation"></class> -->
-      <class name="testCases.TC_004_LoginDDT"></class>
+     <!--  <class name="testCases.TC_004_LoginDDT"></class> -->
+      <class name="testCases.TC_005_FileUploadUsingAutoIT"></class>
      
     </classes>
   </test> <!-- Test -->

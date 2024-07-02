@@ -8,13 +8,13 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC_004_LoginDDT">
+      <class name="testCases.TC_005_FileUploadUsingAutoIT">
         <methods>
           <include name="tearDown"/>
-          <include name="validateLoginDDT" invocation-numbers="3 10"/>
+          <include name="verifyLogin"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- testCases.TC_004_LoginDDT -->
+      </class> <!-- testCases.TC_005_FileUploadUsingAutoIT -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

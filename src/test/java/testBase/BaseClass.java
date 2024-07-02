@@ -135,11 +135,7 @@ public class BaseClass {
 	}
 	
 	
-	
-	
 
-	
-	
 	
 	
 	
