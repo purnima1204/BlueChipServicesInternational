@@ -1,15 +1,4 @@
-07:51:24.497 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Enter password!
-07:51:24.673 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Scrolled To click on LoginButton!
-07:51:24.711 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - clicked on LoginButton!
-07:51:28.360 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Profile Title is Visible !
-07:51:28.374 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on Logo Link****
-07:51:28.506 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on Profile Logo****
-07:52:30.541 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on ProfileSideBar****
-07:52:31.240 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on EditProfileLink****
-07:52:31.473 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on Passport InputField****
-07:52:31.532 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****Selected As YES ****
-07:52:31.772 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ***opened downloads folder ***
-07:52:31.788 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ***File Uploaded! ***
-07:52:31.788 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ***File Uploaded Using properties Path! ***
-07:52:36.798 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - **Clicked SaveChanges! ***
-07:52:36.982 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ***********Closing the Browser**********
+07:03:30.871 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - Scrolled To click on LoginButton!
+07:03:30.921 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - clicked on LoginButton!
+07:03:35.740 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - clicked on servicesLink!
+07:04:08.554 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - ***********Closing the Browser**********

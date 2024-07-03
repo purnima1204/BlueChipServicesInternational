@@ -117,10 +117,23 @@ public class BaseClass {
 		js.executeScript("window.scrollBy(0, -250)");	
 	}
 	
+	
+	public void ScrollEnd()
+	{
+		JavascriptExecutor js1 = (JavascriptExecutor) driver;
+		js1.executeScript("window.scrollTo(0, document.body.scrollHeight)");
+	}
+	
 	public void scrollFormISVisible()
 	{
 		JavascriptExecutor scroll = (JavascriptExecutor) driver;
 		scroll.executeScript("window.scrollBy(0,2000)");
+	}
+	
+	public void scrollTillBtn()
+	{
+		JavascriptExecutor scroll = (JavascriptExecutor) driver;
+		scroll.executeScript("window.scrollBy(0,1000)");
 	}
 
 	public void ActionssClick(WebElement element)
