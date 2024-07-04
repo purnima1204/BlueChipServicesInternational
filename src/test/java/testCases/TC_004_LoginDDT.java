@@ -1,6 +1,7 @@
 package testCases;
 
 import org.testng.Assert;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import pageObjects.HomePage;
@@ -8,7 +9,7 @@ import pageObjects.LoginPage;
 import pageObjects.ProfilePage;
 import testBase.BaseClass;
 import utilities.DataProviders;
-
+@Listeners(utilities.ExtentReportManager.class)
 public class TC_004_LoginDDT extends BaseClass{
 
 

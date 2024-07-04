@@ -3,13 +3,14 @@ package testCases;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import pageObjects.HomePage;
 import pageObjects.LoginPage;
 import pageObjects.ProfilePage;
 import testBase.BaseClass;
-
+@Listeners(utilities.ExtentReportManager.class)
 public class TC_003_LoginValidation extends BaseClass{
 	
 	

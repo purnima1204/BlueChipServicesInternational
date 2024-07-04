@@ -1,5 +1,10 @@
 package testBase;
 
+import java.awt.AWTException;
+import java.awt.Robot;
+import java.awt.Toolkit;
+import java.awt.datatransfer.StringSelection;
+import java.awt.event.KeyEvent;
 import java.io.File;
 
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -53,6 +58,7 @@ public class BaseClass {
 	public Properties p;
 	public static Actions act;
 	public JavascriptExecutor js = (JavascriptExecutor) driver;
+	public static Robot robot;
 
 
 
@@ -266,6 +272,28 @@ public class BaseClass {
 
 	}
 	
+	
+	public static void Rb(String path) throws AWTException, InterruptedException
+	{
+
+		robot =new Robot();
+		StringSelection ss = new StringSelection(path);
+		System.out.println(path);
+		System.out.println(ss);
+		Toolkit.getDefaultToolkit().getSystemClipboard().setContents(ss, null);
+
+		robot.keyPress(KeyEvent.VK_CONTROL);
+		Thread.sleep(1000);
+		robot.keyPress(KeyEvent.VK_V);
+		Thread.sleep(1000);
+		robot.keyRelease(KeyEvent.VK_V);
+		robot.keyRelease(KeyEvent.VK_CONTROL);
+
+		// Press Enter to confirm the file upload
+
+		robot.keyPress(KeyEvent.VK_ENTER);
+		robot.keyRelease(KeyEvent.VK_ENTER);
+	}
 	
 	
 	

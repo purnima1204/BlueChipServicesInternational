@@ -2,3 +2,43 @@
 07:03:30.921 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - clicked on LoginButton!
 07:03:35.740 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - clicked on servicesLink!
 07:04:08.554 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - ***********Closing the Browser**********
+22:07:51.460 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - ***********Opening the Browser**********
+22:08:26.620 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - ***Starting TC_006_ServiceValidation TestCase***
+22:08:26.621 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - Home page is Launched!
+22:08:26.696 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - Clicked on Login Button!
+22:08:31.019 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - Entered Email!
+22:08:31.302 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - Enter password!
+22:08:31.454 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - Scrolled To click on LoginButton!
+22:08:31.500 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - clicked on LoginButton!
+22:08:37.534 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - clicked on servicesLink!
+22:09:11.443 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - ***********Closing the Browser**********
+22:23:51.228 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - ***********Opening the Browser**********
+22:24:32.344 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - ***Starting TC_006_ServiceValidation TestCase***
+22:24:32.346 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - Home page is Launched!
+22:24:32.495 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - Clicked on Login Button!
+22:24:38.186 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - Entered Email!
+22:24:38.449 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - Enter password!
+22:24:38.609 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - Scrolled To click on LoginButton!
+22:24:38.661 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - clicked on LoginButton!
+22:24:47.080 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - clicked on servicesLink!
+22:25:19.438 [main] INFO  testCases.TC_006_ValidateServices_RequestAppointment_Profile_Services - ***********Closing the Browser**********
+22:37:52.672 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ***********Opening the Browser**********
+22:38:36.188 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ***Starting TC_005_Login TestCase***
+22:38:36.189 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Home page is Launched!
+22:38:36.252 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Clicked on Login Button!
+22:38:42.253 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Entered Email!
+22:38:42.514 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Enter password!
+22:38:42.684 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Scrolled To click on LoginButton!
+22:38:42.731 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - clicked on LoginButton!
+22:38:49.412 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - Profile Title is Visible !
+22:38:49.420 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on Logo Link****
+22:38:49.573 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on Profile Logo****
+22:39:04.343 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on ProfileSideBar****
+22:39:04.992 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on EditProfileLink****
+22:39:05.171 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****clicked on Passport InputField****
+22:39:05.241 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ****Selected As YES ****
+22:39:05.533 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ***opened downloads folder ***
+22:39:05.553 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ***File Uploaded! ***
+22:39:05.553 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ***File Uploaded Using properties Path! ***
+22:39:12.164 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - **Clicked SaveChanges! ***
+22:39:12.294 [main] INFO  testCases.TC_005_FileUploadUsingAutoIT - ***********Closing the Browser**********

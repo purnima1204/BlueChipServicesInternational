@@ -4,10 +4,11 @@ import java.io.IOException;
 import java.util.Map;
 
 import org.testng.Assert;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import testBase.BaseClass;
-
+@Listeners(utilities.ExtentReportManager.class)
 public class TC_002_BrokenLinks_ResponseCode extends BaseClass {
 	
 	@Test(priority=0)

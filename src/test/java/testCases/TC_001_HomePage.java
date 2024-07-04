@@ -1,12 +1,14 @@
 package testCases;
 
 import org.testng.Assert;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
+@Listeners(utilities.ExtentReportManager.class)
 public class TC_001_HomePage extends BaseClass {
 	
 	

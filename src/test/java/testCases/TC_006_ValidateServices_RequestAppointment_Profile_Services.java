@@ -7,13 +7,14 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import pageObjects.HomePage;
 import pageObjects.LoginPage;
 import pageObjects.ServicesPageInStudentDashboard;
 import testBase.BaseClass;
-
+@Listeners(utilities.ExtentReportManager.class)
 public class TC_006_ValidateServices_RequestAppointment_Profile_Services extends BaseClass {
 	
 	
